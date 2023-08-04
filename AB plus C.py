@@ -22,4 +22,8 @@ for _ in range(T):
 
     print(i, i, X - i**2)
 
-# This should be addded on stack
+# Hello This content is added for git stash learning
+#
+#
+#
+#

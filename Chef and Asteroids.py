@@ -20,3 +20,9 @@ q = math.factorial(T)
 qinv = pow(q, mod - 2, mod)
 ans = (p * qinv) % mod
 print(ans)
+
+# Hello This content is added for git stash learning
+#
+#
+#
+#
