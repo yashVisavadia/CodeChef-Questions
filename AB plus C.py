@@ -27,3 +27,4 @@ for _ in range(T):
 #
 #
 #
+# This is for 2 min. learning added
