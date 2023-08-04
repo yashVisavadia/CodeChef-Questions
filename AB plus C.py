@@ -5,7 +5,7 @@ for _ in range(T):
     X = int(input())
 
     if X == 1:
-        print(0)
+        print(-1)
         continue
 
     i = floor(sqrt(X))
