@@ -21,10 +21,3 @@ for _ in range(T):
         continue
 
     print(i, i, X - i**2)
-
-# Hello This content is added for git stash learning
-#
-#
-#
-#
-# This is for 2 min. learning added
