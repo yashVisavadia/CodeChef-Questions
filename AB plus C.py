@@ -21,3 +21,5 @@ for _ in range(T):
         continue
 
     print(i, i, X - i**2)
+
+# This should be addded on stack
