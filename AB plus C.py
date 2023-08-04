@@ -22,3 +22,4 @@ for _ in range(T):
 
     print(i, i, X - i**2)
 
+# This is for 2 min. learning added
